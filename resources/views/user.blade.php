@@ -13,7 +13,7 @@
             <td>ID Level Pengguna</td> --}}
         </tr>
         <tr>
-            <td>{{ $datax }}</td>
+            <td>{{ $data }}</td>
             {{-- <td>{{ $data->username }}</td>
             <td>{{ $data->nama }}</td>
             <td>{{ $data->level_id }}</td> --}}
